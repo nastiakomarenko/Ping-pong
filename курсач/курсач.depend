@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1648380192 source:c:\users\user\documents\c++projects\курсач\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1647426822 source:c:\users\user\documents\c++projects\курсач\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Constante.h"
+	<SFML/Graphics.hpp>
+	<array>
+
+1647426822 c:\users\user\documents\c++projects\курсач\menu.h
+	<array>
+	<SFML/Graphics.hpp>
+
+1647426973 c:\users\user\documents\c++projects\курсач\constante.h
+	<string>
+
+1647524229 source:c:\users\user\documents\c++projects\курсач\untitled1.c
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+
+1647524531 source:c:\users\user\documents\c++projects\курсач\add.cpp
+
+1647677992 source:c:\users\user\desktop\c++projects\курсач\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+
+1647524229 source:c:\users\user\desktop\c++projects\курсач\untitled1.c
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+
